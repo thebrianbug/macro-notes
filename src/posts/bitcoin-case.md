@@ -26,3 +26,34 @@ tags:
 6. History provides thousands of examples of fiat (Government-issued) currencies. Every example has eventually become worthless. The average lifespan of a fiat currency system is only 30 years. The USD is one of the oldest with its current form being just over 40 years old (Its parent was the gold-backed currency also called USD).
 
 ## Major Counterarguments
+
+1. It has no intrinsic value.
+   - Nether does the dollar. BTC has guaranteed scarcity “built in.”
+2. It's only used by criminals.
+   - Criminal activity is frequently the first adopter of new technologies. The original use of the internet was mostly pornography. Today BTC is used by many reputable institutions, and the whole world relies on the internet.
+3. Major governments won’t allow BTC to succeed and will begin to ban it.
+   - Several governments have already tried to ban it, mostly unsuccessfully. Bitcoin is now too large to be threatened by any direct governmental attack, but if a major government were to ban its use it could certainly affect the price in the short term. However, most governments would not want to allow another country to get ahead of them in this emerging area that is being developed by the brightest minds of the world.
+4. It’s too hard to use.
+   - Earlier in its lifetime it was extremely difficult. However, now very easy to use tools are now available. You no longer need a PhD to use Bitcoin.
+5. It's too volatile.
+   - The volatility of new assets tends to decline with age. The world has never before created anything like BTC and it will take time to arrive at a stable price. Each market cycle has been less extreme than the last.
+6. It's not FDIC insured.
+   - Insurance can be purchased as desired. FDIC insurance uses newly printed money to function, which means that the rest of us actually pay for FDIC bailouts through inflation.
+7. It has too high of transaction fees for widespread use.
+   - The fees are apparently acceptable to those with accounts sufficiently large as they are being paid. BTC makes a better long-term savings account than a checking account. Innovation may reduce fees over time.
+8. It has too few developers working on it. It lacks the resources to improve itself over time.
+   - Many argue that Bitcoin is functional as is and needs few improvements if any. It is true that many other cryptocurrencies innovate faster.
+9. It could eventually be surpassed by another crypto.
+   - While this could happen, no other cryptocurrency is as widely recognized or accepted. The network effect has been sufficiently powerful so far.
+
+## Price Potential
+
+1. BTC could overtake the $11 trillion global gold market as a more accessible alternative. This could happen over 1-3 decades as millennial and gen x demographics inherit the wealth of parents and grandparents.
+2. BTC could replace the USD as the new global reserve currency. It is currently becoming a holding in the currency reserve in many countries as an impartial settlement layer between nation-states. That said, it is unlikely that BTC will be used for regular payments as it focuses on a different problem. BTC is currently about 4.8% of the USD market, which is currently $19,632,767,542,000 USD (by M2).
+3. BTC could take a sizable portion of the global bonds and treasuries markets, 80% of which are currently yielding negative returns (losing money) either after or even before inflation. The size of the US bond market alone is currently $41.2 trillion in 2020
+
+## Additional Resources
+
+- Detailed overview of [major arguments](https://www.casebitcoin.com/)
+- Comparison of [world's largest assets](https://8marketcap.com/)
+- Market cap of [currencies measured in BTC](https://fiatmarketcap.com/Country)
