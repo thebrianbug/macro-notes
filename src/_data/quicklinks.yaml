@@ -3,3 +3,6 @@ links:
   - title: Bitcoin
     url: "/posts/bitcoin-case"
     desc: A macro view on Bitcoin
+  - title: Ethereum
+    url: "/posts/ethereum-case"
+    desc: The case for Ethereum
