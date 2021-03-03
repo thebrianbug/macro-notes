@@ -17,7 +17,10 @@ layout: blog
         <a>{{ post.data.author }}</a>
       </time>
     </p>
-    {% if post.data.description %}
+
+    {% for tag in post.tags %}
+    <span class="text-blue-500">{{ tag }}</span>
+    {% endfor %} {% if post.data.description %}
     <p class="text-lg text-gray-500 mb-3">{{ post.data.description }}</p>
     {% endif %}
 
