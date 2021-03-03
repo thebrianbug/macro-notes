@@ -33,3 +33,5 @@ tags:
 ## Price Potential
 
 ## Additional Resources
+
+- A great macro [analysis](https://www.youtube.com/watch?v=Dul7G-dVTic) of the investment in ETH both positive arguments and risks
