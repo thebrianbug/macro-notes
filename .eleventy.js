@@ -22,7 +22,7 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("contains", (arr, value) => {
-    return arr.includes(item);
+    return arr.includes(value);
   });
 
   // Syntax Highlighting for Code blocks
