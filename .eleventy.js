@@ -17,6 +17,14 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addFilter("skip", (arr, value) => {
+    return arr.filter((item) => item !== value);
+  });
+
+  eleventyConfig.addFilter("contains", (arr, value) => {
+    return arr.includes(item);
+  });
+
   // Syntax Highlighting for Code blocks
   eleventyConfig.addPlugin(syntaxHighlight);
 

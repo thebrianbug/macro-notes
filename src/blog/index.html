@@ -18,7 +18,7 @@ layout: blog
       </time>
     </p>
 
-    {% for tag in post.data.tags %}
+    {% for tag in post.data.tags | skip('post') %}
     <span class="bg-purple-500 text-white text-sm font-medium py-1 px-2 rounded align-middle">{{ tag }}</span>
     {% endfor %} 
     
