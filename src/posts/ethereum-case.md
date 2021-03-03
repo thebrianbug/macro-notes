@@ -26,6 +26,10 @@ tags:
 
 ## Major Counterarguments
 
+1. POS is less secure than POW
+2. ETH is too inefficient compared to alternatives
+3. Transaction fees are too high for widespread use
+
 ## Price Potential
 
 ## Additional Resources
