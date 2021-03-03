@@ -19,11 +19,11 @@ layout: blog
     </p>
 
     {% for tag in post.data.tags | skip('post') %}
-    <span class="bg-purple-500 text-white text-sm font-medium py-1 px-2 rounded align-middle">{{ tag }}</span>
+    <span class="bg-purple-500 text-white text-sm font-medium py-1 px-2 mx-0.5 rounded align-middle">{{ tag }}</span>
     {% endfor %} 
     
     {% if post.data.description %}
-    <p class="text-lg text-gray-500 mb-3">{{ post.data.description }}</p>
+    <p class="text-lg text-gray-500 mt-1 mb-3">{{ post.data.description }}</p>
     {% endif %}
 
     <p>
