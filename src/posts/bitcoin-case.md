@@ -48,9 +48,9 @@ tags:
 
 ## Price Potential
 
-1. BTC could overtake the $11 trillion global gold market as a more accessible alternative. This could happen over 1-3 decades as millennial and gen x demographics inherit the wealth of parents and grandparents.
-2. BTC could replace the USD as the new global reserve currency. It is currently becoming a holding in the currency reserve in many countries as an impartial settlement layer between nation-states. That said, it is unlikely that BTC will be used for regular payments as it focuses on a different problem. BTC is currently about 4.8% of the USD market, which is currently $19,632,767,542,000 USD (by M2).
-3. BTC could take a sizable portion of the global bonds and treasuries markets, 80% of which are currently yielding negative returns (losing money) either after or even before inflation. The size of the US bond market alone is currently $41.2 trillion in 2020
+1. BTC could overtake the $11 trillion [global gold market](https://8marketcap.com/) as a more accessible alternative. This could happen over 1-3 decades as millennial and gen x demographics inherit the wealth of parents and grandparents.
+2. BTC could replace the USD as the new global reserve currency. It is currently becoming a holding in the currency reserve in many countries as an impartial settlement layer between nation-states. That said, it is unlikely that BTC will be used for regular payments as it focuses on a different problem. BTC is [less than 5% of the USD market](https://fiatmarketcap.com/Country), which is currently $19,632,767,542,000 USD (by M2).
+3. BTC could take a sizable portion of the global bonds and treasuries markets, 80% of which are currently yielding negative returns (losing money) either after or even before inflation. The size of the US bond market alone was [$41.2 trillion in 2020](https://www.sifma.org/wp-content/uploads/2020/09/US-Fact-Book-2020-SIFMA.pdf)
 
 ## Additional Resources
 
