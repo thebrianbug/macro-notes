@@ -2,6 +2,8 @@ const yaml = require("js-yaml");
 const { DateTime } = require("luxon");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const htmlmin = require("html-minifier");
+const markdownIt = require("markdown-it");
+const markdownItAttrs = require("markdown-it-attrs");
 
 module.exports = function (eleventyConfig) {
   // Disable automatic use of your .gitignore
@@ -64,6 +66,12 @@ module.exports = function (eleventyConfig) {
 
     return content;
   });
+
+  const mdLib = markdownIt({
+    linkify: true,
+  }).use(markdownItAttrs);
+
+  eleventyConfig.setLibrary("md", mdLib);
 
   // Let Eleventy transform HTML files as nunjucks
   // So that we can use .html instead of .njk

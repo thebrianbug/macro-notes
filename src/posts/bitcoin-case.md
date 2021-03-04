@@ -55,6 +55,6 @@ tags:
 
 ## Additional Resources
 
-- Detailed overview of [major arguments](https://www.casebitcoin.com/)
+- Detailed overview of [major arguments](https://www.casebitcoin.com/){target=_blank}
 - Comparison of [world's largest assets](https://8marketcap.com/)
 - Market cap of [currencies measured in BTC](https://fiatmarketcap.com/Country)
