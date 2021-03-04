@@ -34,6 +34,9 @@ module.exports = {
             'ul > li::before': {
               backgroundColor: theme('colors.gray.300'),
             },
+            a: {
+              color: theme('colors.purple.400'),
+            },
           },
         },
       }),
