@@ -23,12 +23,18 @@ tags:
 2. Almost all of DeFi is built on ETH.
 3. ETH is currently undergoing a major transformation that will significantly increase efficiency by many orders of magnitude.
 4. ETH is working to transition from proof of work (POW) to proof of stake (POS). In POW, like BTC, miners waste electricity as proof of their truthfulness and sell their coins to cover costs. This increases supply and brings the price down. In POS, stakers lock up their coins as proof of their truthfulness and do not need to sell their coins. This reduces supply and pumps the price up.
+5. ETH has an army of the wold's best and brightest working on the protocol and on top of it.
 
 ## Major Counterarguments
 
-1. POS may be less secure than POW
-2. ETH is too inefficient compared to alternatives
-3. Transaction fees are too high for widespread use
+1. The consensus mechanism of Proof of Stake (POS) may be less secure than Proof of Work (POW).
+   - In practice POW can be understood as a subtype of POS, with the stake being in specialized computer equipment available only in part of the world. No consensus mechanism is without tradeoffs or is above the potential for attack. Instead, they focus on making any attack cost the attacker more than anyone else. Billions of dollars have been successfully secured across several chains without major attack.
+2. ETH is too inefficient compared to alternatives.
+   - As the founder of the smart-contract space, ETH originally prioritized adoption over efficiency. Today it is the most used and most valuable platform-type crypto in the world. It is also undergoing massive and continual improvements. It is likely that its vastly improving efficiency will continue to be sufficient for many projects.
+3. Transaction fees are too high.
+   - This is due to the inefficiencies just mentioned which are being addressed. This also showcases the magnitude of the demand for the market that ETH is addressing as people still are paying higher fees.
+4. ETH is taking to long to implement changes.
+   - ETH's development has taken a long time. However, key milestones have been eventually met if sometimes delayed. Some projects may not wish to wait for ETH's scaling improvements and launch on a different platform. However, while many alternatives are being developed few are ready for adoption and none have ETH's successful track record nor network effect. Time will tell if these advantages will prove sufficient.
 
 ## Price Potential
 
