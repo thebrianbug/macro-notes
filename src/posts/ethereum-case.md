@@ -38,6 +38,10 @@ tags:
 
 ## Price Potential
 
+1. The smart contract (programmable money) that ETH pioneered could become as transformative to the world as was the internet itself. It is impossible to know how much value will be added to the world because of it. However, even if smart contracts were to become used by virtually all individuals and businesses it is also difficult to know just how much of that market the platform would capture vs the applications that are built on top of it.
+2. ETH could overtake the [$370 Billion](https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html) cloud computing market. However, this is likely a poor pricing model as ETH is much less efficient and more expensive than cloud providers as it's not built for that purpose. ETH is already [170 Billion](https://coinpaprika.com/) in 2021 with just a few users compared to the internet.
+3. ETH could take over global [$69 Trillion](https://www.visualcapitalist.com/all-of-the-worlds-stock-exchanges-by-size/) equity funding markets. Any company can use it to receive funding for securities that are globally tradable in a 24-7 market. The 2017 ICO (Crypto Initial Public Offering) bull market was largely fueled by companies being able to easily raise seed capital directly from global investors. However, this led to several problems. Even if the entire world were to use ETH to issue securities it is difficult to guess how much of that valuation would remain in ETH as a protocol vs in the tokens that run on top of it.
+
 ## Additional Resources
 
 - A great macro [analysis](https://www.youtube.com/watch?v=Dul7G-dVTic){target=\_blank} of the investment in ETH both positive arguments and risks
