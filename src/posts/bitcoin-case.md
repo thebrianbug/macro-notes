@@ -32,20 +32,22 @@ tags:
    - Nether does the dollar. BTC has guaranteed scarcity “built in.”
 2. It's only used by criminals.
    - Criminal activity is frequently the first adopter of new technologies. The original use of the internet was mostly pornography. Today BTC is used by many reputable institutions, and the whole world relies on the internet.
-3. Major governments won’t allow BTC to succeed and will begin to ban it.
+3. It could be hacked.
+   - As a network, BTC is perhaps the most secure network on earth. Billions of dollars are paid to those who help maintain security and in over 10 years it's retained its value. No one can steal from your BTC wallet without you giving them your private keys (password). It's true that over the years a very few potential inflation (print-all-the-BTC-you-want) bugs have been found and addressed. But, if the network ever were to be catastrophically hacked the community could fix the issue and move the system to another blockchain to undo the theft.
+4. Major governments won’t allow BTC to succeed and will begin to ban it.
    - Several governments have already tried to ban it, mostly unsuccessfully. Bitcoin is now too large to be threatened by any direct governmental attack, but if a major government were to ban its use it could certainly affect the price in the short term. However, most governments would not want to allow another country to get ahead of them in this emerging area that is being developed by the brightest minds of the world.
-4. It’s too hard to use.
+5. It’s too hard to use.
    - Earlier in its lifetime it was extremely difficult. However, now very easy to use tools are now available. You no longer need a PhD to use Bitcoin.
-5. It's too volatile.
+6. It's too volatile.
    - The volatility of new assets tends to decline with age. The world has never before created anything like BTC and it will take time to arrive at a stable price. Each market cycle has been less extreme than the last.
-6. It's not FDIC insured.
+7. It's not FDIC insured.
    - Insurance can be purchased as desired. FDIC insurance uses newly printed money to function, which means that the rest of us actually pay for FDIC bailouts through inflation.
-7. It has too high of transaction fees for widespread use.
+8. It has too high of transaction fees for widespread use.
    - The fees are apparently acceptable to those with accounts sufficiently large as they are being paid. BTC makes a better long-term savings account than a checking account. Innovation may reduce fees over time.
-8. It has too few developers working on it. It lacks the resources to improve itself over time.
+9. It has too few developers working on it. It lacks the resources to improve itself over time.
    - Many argue that Bitcoin is functional as is and needs few improvements if any. It is true that many other cryptocurrencies innovate faster.
-9. It could eventually be surpassed by another crypto.
-   - While this could happen, no other cryptocurrency is as widely recognized or accepted. The network effect has been sufficiently powerful so far.
+10. It could eventually be surpassed by another crypto.
+    - While this could happen, no other cryptocurrency is as widely recognized or accepted. The network effect has been sufficiently powerful so far.
 
 ## Price Potential
 
