@@ -21,9 +21,10 @@ tags:
 
 1. ETH is the most widely adopted platform for cryptocurrencies. Most projects that are currently in use build on it directly.
 2. Almost all of DeFi is built on ETH.
-3. ETH is currently undergoing a major transformation that will significantly increase efficiency by many orders of magnitude.
-4. ETH is working to transition from proof of work (POW) to proof of stake (POS). In POW, like BTC, miners waste electricity as proof of their truthfulness and sell their coins to cover costs. This increases supply and brings the price down. In POS, stakers lock up their coins as proof of their truthfulness and do not need to sell their coins. This reduces supply and pumps the price up.
-5. ETH has an army of the wold's best and brightest working on the protocol and on top of it.
+3. ETH has confirmed that it will deploy changes to token issuance in July 2021. Specifically a portion of the payment previously paid to miners (those running the network) will be burnt (destroyed). The busier the network becomes, the more is burnt. This changes ETH from net-inflationary to net-deflationary, meaning less tokens will be available and so should pump the price.
+4. ETH is currently undergoing a major transformation that will significantly increase efficiency by many orders of magnitude.
+5. ETH is working to transition from proof of work (POW) to proof of stake (POS). In POW, like BTC, miners waste electricity as proof of their truthfulness and sell their coins to cover costs. This increases supply and brings the price down. In POS, stakers lock up their coins as proof of their truthfulness and do not need to sell their coins. This reduces supply and so also pumps the price.
+6. ETH has an army of the wold's best and brightest working on the protocol and on top of it.
 
 ## Major Counterarguments
 
@@ -41,7 +42,7 @@ tags:
 1. The smart contract (programmable money) that ETH pioneered could become as transformative to the world as was the internet itself. It is impossible to know how much value will be added to the world because of it. However, even if smart contracts were to become used by virtually all individuals and businesses it is also difficult to know just how much of that market the platform would capture vs the applications that are built on top of it.
 2. ETH could overtake the [$370 Billion](https://www.marketsandmarkets.com/Market-Reports/cloud-computing-market-234.html) cloud computing market. However, this is likely a poor pricing model as ETH is much less efficient and more expensive than cloud providers as it's not built for that purpose. ETH is already [170 Billion](https://coinpaprika.com/) in 2021 with just a few users compared to the internet.
 3. ETH could take over global [$69 Trillion](https://www.visualcapitalist.com/all-of-the-worlds-stock-exchanges-by-size/) equity funding markets. Any company can use it to receive funding for securities that are globally tradable in a 24-7 market. The 2017 ICO (Crypto Initial Public Offering) bull market was largely fueled by companies being able to easily raise seed capital directly from global investors. However, this led to several problems. Even if the entire world were to use ETH to issue securities it is difficult to guess how much of that valuation would remain in ETH as a protocol vs in the tokens that run on top of it.
-4. Various changes have been proposed to ETH to formalize the monetary policy for token issuance and to make the tokens even more scarce. This could allow it to be used as an alternative store of value to Bitcoin. It has been argued that for this reason ETH could potentially exceed the [market value of Bitcoin](https://coinpaprika.com/).
+4. ETH's changes in [EIP 1559](https://www.coindesk.com/ethereum-improvement-proposal-1559-london-hard-fork) make ETH usable as an alternative store of value to Bitcoin. It has been argued that for this reason ETH could potentially exceed the [market value of Bitcoin](https://coinpaprika.com/). However, the use of ETH is much more nuanced and so is perhaps unlikely to overtake BTC as a store of value.
 
 ## Major Risks
 
