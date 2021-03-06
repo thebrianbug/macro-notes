@@ -43,6 +43,11 @@ tags:
 3. ETH could take over global [$69 Trillion](https://www.visualcapitalist.com/all-of-the-worlds-stock-exchanges-by-size/) equity funding markets. Any company can use it to receive funding for securities that are globally tradable in a 24-7 market. The 2017 ICO (Crypto Initial Public Offering) bull market was largely fueled by companies being able to easily raise seed capital directly from global investors. However, this led to several problems. Even if the entire world were to use ETH to issue securities it is difficult to guess how much of that valuation would remain in ETH as a protocol vs in the tokens that run on top of it.
 4. Various changes have been proposed to ETH to formalize the monetary policy for token issuance and to make the tokens even more scarce. This could allow it to be used as an alternative store of value to Bitcoin. It has been argued that for this reason ETH could potentially exceed the [market value of Bitcoin](https://coinpaprika.com/).
 
+## Major Risks
+
+1. If Bitcoin were to suffer a large-scale catastrophe such as an inflation bug the entire crypto market would likely acutely suffer for a time. However, even if such a thing were to occur some fix would be made or alternative created and the market would eventually recover with near certainty.
+2. If competing platforms manage to provide a stable scalable solution and progress on ETH's upgrades are too long delayed other platforms could overtake market share.
+
 ## Additional Resources
 
 - A great macro [analysis](https://www.youtube.com/watch?v=Dul7G-dVTic){target=\_blank} of the investment in ETH both positive arguments and risks
