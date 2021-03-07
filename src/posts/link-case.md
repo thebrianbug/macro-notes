@@ -19,9 +19,14 @@ tags:
 
 1. The problem that LINK provides a solution for is shared by almost every network, app, and token in all of crypto.
 2. LINK is already used by most successful and/or new projects in crypto. Many of the smartest and most capable developers in the world are working either directly on LINK or integrating it with their own blockchains.
-3. LINK is highly transparent both in and of itself and with its Oracles and so is likely to remain a trusted data source indefinitely.
+3. LINK is highly transparent both in and of itself and with its Providers and so is likely to remain a trusted data source indefinitely.
 
 ## Major Counterarguments
+
+1. Trusting outside data from a Provider in smart contracts inherently makes blockchain less secure.
+   - While this is perhaps true to some extent, it also vastly increases the total usefulness of the entire cryptocurrency ecosystem. The LINK system creates an open market of trusted parties where honest and timely participation is rewarded similar to the game theory inside most blockchains. Given a high enough fee the Providers should be adequately incentivized to supply any requested data.
+2. Too few Providers can participate in the system to provide a given data request, causing a risk of undue centralization.
+   - This is mostly a question of fees. For a sufficiently high fee any number of data sources should be able to be provided for almost any data feed. In practice, it is true that many projects currently rely on relatively few Providers that may be participating in a given niche. This has been exploited in the past via several DeFi projects and so projects are becoming much more careful about using more Providers for data feeds.
 
 ## Price Potential
 
