@@ -27,8 +27,12 @@ tags:
    - While this is perhaps true to some extent, it also vastly increases the total usefulness of the entire cryptocurrency ecosystem. LINK creates an open market of trusted parties where honest and timely participation is rewarded similar to the game theory on-chain in most cryptocurrencies. Given a high enough fee the Providers should be adequately incentivized to supply any requested data.
 2. Too few Providers can participate in the system to provide a given data request, causing a risk of undue centralization.
    - This is again mostly a question of fees. For a sufficiently high fee any number of data sources should be able to be provided for almost any data feed. In practice, it is true that many projects currently rely on relatively few Providers that may be participating in a given niche. This has been exploited in the past via several DeFi projects and so projects are becoming much more careful about using more Providers for data feeds.
+3. LINK's solution to the Oracle Problem will be eclipsed by other competitors.
+   - While this could happen, at this moment it does not appear to be the most probable outcome. LINK is now a top-10 crypto by market cap. It is used by almost every crypto project in the DeFi space and maintains a high degree of user satisfaction. Its current implementation has proven sufficient for most needs today and it has a large team of developers available to improve the protocol in the future.
 
 ## Price Potential
+
+1. It seems reasonable to assume that the total market value in Oracles such as Chainlink will become proportional to the value in cryptocurrencies as a whole. The current market appears to agree with that assessment as LINK is now a [top-10 crypto](https://coinpaprika.com/coin/link-chainlink/).
 
 ## Major Risks
 
