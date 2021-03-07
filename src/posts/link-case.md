@@ -33,7 +33,11 @@ tags:
 ## Price Potential
 
 1. It seems reasonable to assume that the total market value in Oracles such as Chainlink will become proportional to the value in cryptocurrencies as a whole. The current market appears to agree with that assessment as LINK is now a [top-10 crypto](https://coinpaprika.com/coin/link-chainlink/).
+2. It is possible that the value of LINK may be more closely tied to the size of transaction fees than market cap. Though this correlation currently exists, it is unknown if it will remain so.
 
 ## Major Risks
+
+1. The value of Oracles depends on the fundamental theses of both Bitcoin and Ethereum being realized, though not necessarily on those blockchains. Like all of crypto if Bitcoin suffered a major catastrophe the price would plummet, but even in this scenario the industry would address almost any conceivable roadblock.
+2. LINK's thesis is closely tied to the entire Decentralized Finance (DeFi) movement. If a major project in DeFi were to suffer an attack so fundamental as to question the feasibility of DeFi the price of LINK would almost certainly plummet. However, it is more likely that any conceivable attack would be eventually addressed and the market would recover.
 
 ## Additional Resources
