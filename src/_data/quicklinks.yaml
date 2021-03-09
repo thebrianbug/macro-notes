@@ -2,7 +2,10 @@
 links:
   - title: Bitcoin
     url: "/posts/bitcoin-case"
-    desc: A macro view on Bitcoin
+    desc: The case for Ethereum
   - title: Ethereum
     url: "/posts/ethereum-case"
     desc: The case for Ethereum
+  - title: Chainlink
+    url: "/posts/link-case"
+    desc: The case for Chainlink
