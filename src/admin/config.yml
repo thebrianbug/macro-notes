@@ -20,6 +20,7 @@ collections:
     editor:
       preview: false
     fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "coin" }
       - { label: "Name", name: "name", widget: "string" }
       - { label: "Ticker", name: "ticker", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }

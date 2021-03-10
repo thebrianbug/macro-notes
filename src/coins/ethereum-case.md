@@ -1,4 +1,5 @@
 ---
+layout: coin
 name: Ethereum
 ticker: ETH
 date: 2021-03-02

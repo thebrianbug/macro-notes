@@ -1,4 +1,5 @@
 ---
+layout: coin
 name: Bitcoin
 ticker: BTC
 date: 2021-03-02

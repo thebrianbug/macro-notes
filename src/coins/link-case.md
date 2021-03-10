@@ -1,4 +1,5 @@
 ---
+layout: coin
 name: Chainlink
 ticker: LINK
 date: 2021-03-05
