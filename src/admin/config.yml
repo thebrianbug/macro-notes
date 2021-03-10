@@ -27,7 +27,6 @@ collections:
       - widget: list
         label: "Tags"
         name: "tags"
-        default: ["Bitcoin (BTC)", "Ethereum (ETH)"]
   - label: "Settings"
     name: "settings"
     editor:
