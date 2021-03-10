@@ -12,9 +12,9 @@ public_folder: "/static/img"
 local_backend: true
 # publish_mode: editorial_workflow
 collections:
-  - label: "Blog"
-    name: "blog"
-    folder: "src/posts"
+  - label: "Coins"
+    name: "coins"
+    folder: "src/coins"
     create: true
     editor:
       preview: false
@@ -29,7 +29,7 @@ collections:
         name: "tags"
         multiple: true
         create: true
-        options: ["Macro", "Crypto", "Bitcoin (BTC)", "Ethereum (ETH)"]
+        options: ["Bitcoin (BTC)", "Ethereum (ETH)"]
   - label: "Settings"
     name: "settings"
     editor:

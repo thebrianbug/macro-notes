@@ -1,9 +1,9 @@
 ---
-layout: blog
+layout: coins
 ---
 
 <section class="mt-15">
-  {% for post in collections.post | reverse %}
+  {% for post in collections.coin | reverse %}
   <article class="my-8">
     <h2 class="font-bold text-3xl text-gray-200 mb-2">
       <a href="{{ post.url | url }}">
@@ -18,7 +18,7 @@ layout: blog
       </time>
     </p>
 
-    {% for tag in post.data.tags | skip('post') %}
+    {% for tag in post.data.tags | skip('coin') %}
     <span class="tag">{{ tag }}</span>
     {% endfor %} 
     

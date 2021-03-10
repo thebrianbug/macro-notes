@@ -4,7 +4,6 @@ description: A summery of the major arguments for Chainlink.
 author: Brian McIlwain
 date: 2021-03-05
 tags:
-  - Crypto
   - Chainlink (LINK)
 ---
 
@@ -40,5 +39,3 @@ tags:
 1. The value of Oracles depends on the fundamental theses of both Bitcoin and Ethereum being realized, though not necessarily on those blockchains. Like all of crypto if Bitcoin suffered a major catastrophe the price would plummet, but even in this scenario the industry would address almost any conceivable roadblock.
 2. LINK's thesis is closely tied to the entire Decentralized Finance (DeFi) movement. If a major project in DeFi were to suffer an attack so fundamental as to question the feasibility of DeFi the price of LINK would almost certainly plummet. However, it is more likely that any conceivable attack would be eventually addressed and the market would recover.
 3. It is supported by major companies including Google. If crypto began to eat into Google and other major tech companies bottom line LINK could be made less useful to those who aren't liked by the existing tech elite. While this could happen, it seems unlikely because LINK is completely open source and used by so many other companies.
-
-## Additional Resources

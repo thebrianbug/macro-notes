@@ -4,8 +4,6 @@ description: A summery of the major points both for and against Bitcoin and cryp
 author: Brian McIlwain
 date: 2021-03-02
 tags:
-  - Macro
-  - Crypto
   - Bitcoin (BTC)
 ---
 

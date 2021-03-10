@@ -1,11 +1,11 @@
 ---
 links:
   - title: Bitcoin
-    url: "/posts/bitcoin-case"
+    url: "/coins/bitcoin-case"
     desc: The case for Bitcoin
   - title: Ethereum
-    url: "/posts/ethereum-case"
+    url: "/coins/ethereum-case"
     desc: The case for Ethereum
   - title: Chainlink
-    url: "/posts/link-case"
+    url: "/coins/link-case"
     desc: The case for Chainlink
