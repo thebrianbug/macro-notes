@@ -13,6 +13,7 @@ local_backend: true
 # publish_mode: editorial_workflow
 collections:
   - label: "Coins"
+    label_singular: "Coin"
     name: "coins"
     folder: "src/coins"
     create: true
