@@ -1,10 +1,7 @@
 ---
-title: The Case for Chainlink
-description: A summery of the major arguments for Chainlink.
-author: Brian McIlwain
+name: Chainlink
+ticker: LINK
 date: 2021-03-05
-tags:
-  - Chainlink (LINK)
 ---
 
 ## Overview

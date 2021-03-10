@@ -1,10 +1,7 @@
 ---
-title: The Case for Ethereum
-description: A summery of the major points both for and against Ethereum and cryptocurrencies in general.
-author: Brian McIlwain
+name: Ethereum
+ticker: ETH
 date: 2021-03-02
-tags:
-  - Ethereum (ETH)
 ---
 
 ## Overview

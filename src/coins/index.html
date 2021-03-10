@@ -6,22 +6,17 @@ layout: coins
 <section class="mt-15">
   {% for coin in collections.coin %}
   <article class="my-8">
-    <h2 class="font-bold text-3xl text-gray-200 mb-2">
-      <a href="{{ coin.url | url }}">
-        {% if coin.data.title %} {{ coin.data.title }} {% else %} Untitled {%
-        endif %}
-      </a>
+    <h2 class="font-bold text-3xl text-gray-200">
+      <a class="pr-1" href="{{ coin.url | url }}">{{ coin.data.name }}</a>
+
+      <span class="tag">{{ coin.data.ticker }}</span>
     </h2>
 
-    {% for tag in coin.data.tags | skip('coin') %}
-    <span class="tag">{{ tag }}</span>
-    {% endfor %} {% if coin.data.description %}
-    <p class="text-lg mt-1 mb-3">{{ coin.data.description }}</p>
-    {% endif %}
+    <span class="text-lg">The case for {{ coin.data.name }}</span>
 
     <p>
       <a href="{{ coin.url | url }}" class="text-indigo-500 font-bold text-lg">
-        Read more →
+        Show me →
       </a>
     </p>
   </article>

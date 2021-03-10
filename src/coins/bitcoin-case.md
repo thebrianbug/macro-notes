@@ -1,10 +1,7 @@
 ---
-title: The Case for Bitcoin
-description: A summery of the major points both for and against Bitcoin and cryptocurrencies in general.
-author: Brian McIlwain
+name: Bitcoin
+ticker: BTC
 date: 2021-03-02
-tags:
-  - Bitcoin (BTC)
 ---
 
 ## Overview
