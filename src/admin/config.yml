@@ -24,12 +24,10 @@ collections:
       - { label: "Author", name: "author", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
-      - widget: select
-        label: "tags"
+      - widget: list
+        label: "Tags"
         name: "tags"
-        multiple: true
-        create: true
-        options: ["Bitcoin (BTC)", "Ethereum (ETH)"]
+        default: ["Bitcoin (BTC)", "Ethereum (ETH)"]
   - label: "Settings"
     name: "settings"
     editor:
