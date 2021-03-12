@@ -7,7 +7,7 @@ date: 2021-03-11
 
 ## Overview
 
-1. Binance is a centralized exchange for cryptocurrencies and is currently the largest worldwide by volume.
+1. Binance is by volume the largest centralized exchange for cryptocurrencies.
 1. Binance created Binance Coin (BNB) which runs on the Binance Chain (BC) and offered its users lower fees for using it as a trading pair on their exchange. As the exchange grew in usage, the price of BNB has increased.
 1. In 2020 Binance also launched Binance Smart Chain (BSC), which is a smart contract platform capable of running decentralized applications (dApps) meant for Ethereum _mostly_ without modification. However, this is not without tradeoffs.
 1. Ethereum's speed has plummeted and transaction fees have skyrocketed with the meteoric rise of DeFi and Non-Fungible Tokens (NFTs) bringing real usage to the blockchain.
