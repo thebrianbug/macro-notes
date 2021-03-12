@@ -8,14 +8,11 @@ date: 2021-03-11
 ## Overview
 
 1. Binance is a centralized exchange for cryptocurrencies and is currently the largest worldwide by volume.
-1. Binance created Binance Coin (BNB) and offered its users lower fees for using it as a trading pair on their exchange. As the exchange grew in usage, the price of BNB has increased.
-1. In 2020 Binance also launched Binance Smart Chain (BSC), which is a smart contract platform capable of running Ethereum decentralized applications (dApps) *mostly* without modification.
-
-2. ETH is also one of the most fundamentally important cryptocurrencies, after BTC. Today, most crypto projects depend on the fundamental theses of BTC and ETH being realized in addition to their own. This is true even for projects that aren’t technically built on either platform. ETH is completely separate in its technical implementation from BTC.
-3. ETH is a platform to run smart contracts. These are contracts which are created and enforced in software instead of a legal system. ETH can be thought of as self-enforcing programmable money.
-4. Almost any crypto can be built on top of ETH. Though alternatives exist, ETH currently hosts most of the other cryptos that are currently being used today.
-5. Virtually all of Decentralized Finance (DeFi) is built on ETH. DeFi is a collection of projects that work to replicate every common function of a traditional bank, but in a decentralized way using crypto. DeFi also makes possible many new features that can’t be replicated in the existing traditional finance system.
-6. ETH can also replicate most of the functionality of BTC, but it was built for a different purpose than payments or digital gold. Importantly, it currently has no permanent monetary policy (unlike BTC).
+1. Binance created Binance Coin (BNB) which runs on the Binance Chain (BC) and offered its users lower fees for using it as a trading pair on their exchange. As the exchange grew in usage, the price of BNB has increased.
+1. In 2020 Binance also launched Binance Smart Chain (BSC), which is a smart contract platform capable of running decentralized applications (dApps) meant for Ethereum _mostly_ without modification. However, this is not without tradeoffs.
+1. Ethereum's speed has plummeted and transaction fees have skyrocketed with the meteoric rise of DeFi and Non-Fungible Tokens (NFTs) bringing real usage to the blockchain.
+1. As ETH continues to work on improvements for better scalability, some projects have moved to BSC to grow with lower fees today.
+1. BSC uses BNB for transaction fees and therefore as the main monetary token of the protocol.
 
 ## Major Bullish Arguments
 
