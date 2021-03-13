@@ -23,8 +23,8 @@ date: 2021-03-11
 
 ## Major Counterarguments
 
-1. BSC is MUCH more centralized than ETH.
-   - BSC's security depends on only 21 validators which are rotated daily from within the total staker pool. Users stake BNB for a chance of becoming a validator. Each day the top 21 highest staked nodes are designated as the validators to validate all transactions for that day. This is called Proof of Staked Authority (PoSA). ETH, on the other hand, is much more decentralized in validation and governance.
+1. BSC is MUCH more centralized than ETH. It is controlled by only the top 21 largest validators. This raises concerns that Binance has retained too much power to be considered a decentralized platform. Other projects have suffered hostile take-overs by their parent companies when such a backdoor was left open, to the detriment of their token (e.g. STEEM). Other projects have shown that such vulnerabilities have usually been exploited once the financial incentives become sufficiently large. If Binance ever finds itself in a conflict of interest between BSC and another of its revenue streams, eventually BSC may not be chosen as the winner.
+   - Binance may prove more wise than its predecessors and not undermine their token by forcing their blockchain down a direction that the community does not support. However, it is also true that many (and perhaps most) dApps may never give them the chance to prove otherwise. It is also possible that both do well as applications that don't need as much decentralization move to BSC and ETH retains those that need more decentralization.
 1. DEXs are eating the business of centralized exchanges. Eventually, Binance may not be profitable except as a Fiat (currency) onramp.
    - This is perhaps why Binance launched the BSC to profit from the rise of DEXs. The company should be able to attract business or at least speculation if it merely continues to attract or copy popular dApps onto its own system.
 1. The value created by dApps such as DEXs may remain more within the app than leaking down to the host protocol.
