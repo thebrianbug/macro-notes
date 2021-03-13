@@ -32,9 +32,14 @@ date: 2021-03-11
 
 ## Price Potential
 
+1. BSC on BNB is a platform for smart contracts. It tries to address the same market as ETH by allowing ETH projects to run mostly without modification.
+1. Binance can continue to add additional functionality to their token BNB not related to BSC. This could give the token some diversification of use case beyond what ETH might be able to replicate. However, it is hard to imagine BNB coming up with a use case more compelling to the market than what ETH has with smart contracts.
+
 ## Major Risks
 
 1. BSC and BNB definitely is much more centralized than most other protocols in the space. If Binance is ever in a conflict of interest between BSC/BNB and another of its revenue streams, BNB may eventually be the loser.
 1. Once ETH addresses scalability concerns the need for centralized solutions may dry up, causing BNB usage and therefore price to fall.
 
 ## Additional Resources
+
+1. BSC's [white paper](https://dex-bin.bnbstatic.com/static/Whitepaper_%20Binance%20Smart%20Chain.pdf)
