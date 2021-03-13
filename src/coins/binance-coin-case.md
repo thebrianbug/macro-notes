@@ -9,7 +9,7 @@ date: 2021-03-11
 
 1. Binance is by volume the largest centralized exchange for cryptocurrencies.
 1. Binance created Binance Coin (BNB) which runs on the Binance Chain (BC) and offered its users lower fees for using it as a trading pair on their exchange. As the exchange grew in usage, the price of BNB has increased.
-1. In 2020 Binance also launched Binance Smart Chain (BSC), which is a smart contract platform capable of running decentralized applications (dApps) meant for Ethereum _mostly_ without modification. However, this is not without tradeoffs.
+1. In 2020 Binance also launched Binance Smart Chain (BSC), which is a smart contract platform capable of running decentralized applications (dApps) meant for Ethereum _mostly_ without modification. However, various different tradeoffs must be accepted for projects that choose this route.
 1. Ethereum's speed has plummeted and transaction fees have skyrocketed with the meteoric rise of DeFi and Non-Fungible Tokens (NFTs) bringing real usage to the blockchain.
 1. As ETH continues to work on improvements for better scalability, some projects have moved to BSC to grow with lower fees today. In particular, some Decentralized Exchanges (DEXs) have launched their protocols on BSC and thus BNB.
 1. BSC uses BNB for transaction fees and therefore as the main monetary token of the protocol.

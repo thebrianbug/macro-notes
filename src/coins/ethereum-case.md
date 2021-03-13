@@ -20,13 +20,13 @@ date: 2021-03-02
 2. Almost all of DeFi is built on ETH.
 3. ETH has confirmed that it will deploy changes to token issuance in July 2021. Specifically a portion of the payment previously paid to miners (those running the network) will be burnt (destroyed). The busier the network becomes, the more is burnt. This changes ETH from net-inflationary to net-deflationary, meaning less tokens will be available and so should pump the price.
 4. ETH is currently undergoing a major transformation that will significantly increase efficiency by many orders of magnitude.
-5. ETH is working to transition from proof of work (POW) to proof of stake (POS). In POW, like BTC, miners waste electricity as proof of their truthfulness and sell their coins to cover costs. This increases supply and brings the price down. In POS, stakers lock up their coins as proof of their truthfulness and do not need to sell their coins. This reduces supply and so also pumps the price.
+5. ETH is working to transition from proof of work (PoW) to proof of stake (PoS). In PoW, like BTC, miners waste electricity as proof of their truthfulness and sell their coins to cover costs. This increases supply and brings the price down. In PoS, stakers lock up their coins as proof of their truthfulness and do not need to sell their coins. This reduces supply and so also pumps the price.
 6. ETH has an army of the wold's best and brightest working on the protocol and on top of it.
 
 ## Major Counterarguments
 
-1. The consensus mechanism of Proof of Stake (POS) may be less secure than Proof of Work (POW).
-   - In practice POW can be understood as a subtype of POS, with the stake being in specialized computer equipment available only in part of the world. No consensus mechanism is without tradeoffs or is above the potential for attack. Instead, they focus on making any attack cost the attacker more than anyone else. Billions of dollars have been successfully secured across several chains without major attack.
+1. The consensus mechanism of Proof of Stake (PoS) may be less secure than Proof of Work (PoW).
+   - In practice PoW can be understood as a subtype of PoS, with the stake being in specialized computer equipment available only in part of the world. No consensus mechanism is without tradeoffs or is above the potential for attack. Instead, they focus on making any attack cost the attacker more than anyone else. Billions of dollars have been successfully secured across several chains without major attack.
 2. ETH is too inefficient compared to alternatives.
    - As the founder of the smart-contract space, ETH originally prioritized adoption over efficiency. Today it is the most used and most valuable platform-type crypto in the world. It is also undergoing massive and continual improvements. It is likely that its vastly improving efficiency will continue to be sufficient for many projects.
 3. Transaction fees are too high.
