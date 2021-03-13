@@ -23,8 +23,8 @@ date: 2021-03-11
 
 ## Major Counterarguments
 
-1. BSC's security depends on only 21 validators. This makes it much more centralized than other smart contract platforms. This raises concerns that Binance has retained too much power to be considered a decentralized platform. Other projects have suffered hostile take-overs by their parent companies when such a backdoor was left open, to the detriment of their token (e.g. STEEM). Other projects have shown that such vulnerabilities have usually been exploited once the financial incentives become sufficiently large.
-   - Binance may prove more wise than its predecessors and not undermine their token by forcing their blockchain down a direction that the community does not support. However, it is also true that many (and perhaps most) dApps may never give them the chance to prove otherwise.
+1. BSC isn't as secure as ETH.
+   - BSC does not have as many users as ETH. However, security on BSC isn't as poor as some claim. BSC's security depends on 21 validators which are rotated daily from within the total staker pool. Users stake BNB for a chance of becoming a validator. Each day 21 validators are chosen from the stakers to validate all transactions for that day. This is called Proof of Staked Authority (PoSA).
 1. DEXs are eating the business of centralized exchanges. Eventually, Binance may not be profitable except as a Fiat (currency) onramp.
    - This is perhaps why Binance launched the BSC to profit from the rise of DEXs. The company should be able to attract business or at least speculation if it merely continues to attract or copy popular dApps onto its own system.
 1. The value created by dApps such as DEXs may remain more within the app than leaking down to the host protocol.
