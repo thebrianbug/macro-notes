@@ -9,3 +9,6 @@ links:
   - title: Chainlink
     url: "/coins/link-case"
     desc: The case for Chainlink
+  - title: Binance Coin
+    url: "/coins/binance-coin-case"
+    desc: The case for Binance Coin
