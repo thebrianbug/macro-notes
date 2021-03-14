@@ -6,7 +6,7 @@ path: home
 
 <section
   id="home"
-  class="container mx-auto lg:h-screen flex flex-col justify-center items-center"
+  class="container mx-auto h-screen flex flex-col justify-center items-center"
 >
   <h1>
     Welcome to
@@ -18,10 +18,32 @@ path: home
   </h1>
 
   <p class="px-2 text-center">
-    See the big picture with long term views on
+    Follow along with
     <span class="text-purple-400 font-bold">crypto</span> and
     <span class="text-blue-400 font-bold">traditional</span> markets
   </p>
+
+  <form
+    class="w-full max-w-sm py-6 mt-5"
+    name="newsletter"
+    method="POST"
+    data-netlify="true"
+  >
+    <div class="flex items-center border-b border-white-500 py-2">
+      <input
+        class="appearance-none bg-transparent border-none w-full text-white-700 mr-3 py-1 px-2 leading-tight focus:outline-none"
+        type="email"
+        placeholder="Your Email"
+        aria-label="Your Email"
+      />
+      <button
+        class="flex-shrink-0 bg-purple-700 hover:border-purple-700 text-sm border-2 text-white py-1 px-2 rounded"
+        type="submit"
+      >
+        Join
+      </button>
+    </div>
+  </form>
 </section>
 
 <section
