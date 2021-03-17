@@ -26,6 +26,9 @@ date: 2021-03-16
 
 ## Major Counterarguments
 
+1. The High-Assurance Code process is too expensive and time-consuming to produce usable results in the real world fast enough.
+   - Somehow, the team in ADA has managed to deliver working functionality again and again. They now have over 100 peer-reviewed papers which are implemented across their entire system. They release month after month code that has passed their massive arsenal of automated tests. And, they are getting faster at the whole process each time.
+
 ## Price Potential
 
 1. ADA addresses the same market as ETH, namely it is a smart contract platform.
