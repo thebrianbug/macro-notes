@@ -8,6 +8,7 @@ date: 2021-03-16
 ## Overview
 
 1. Cardano (ADA) was developed as a smart-contract platform and an alterative to Ethereum. Charles Hoskinson is the founder of ADA and was also an early founding member of ETH's team. With ADA he is working to create a new platform as an attempt to fix ETH's issues in a different way.
+1. The entire team(s) on ADA is staffed by world-class developers and academics, and arguably is the single most distinguished team currently in cryptocurrency.
 1. ADA is fully open-source (the code is public) much more decentralized than some of its competitors. Additional features are on the roadmap to fulfil this ethos such as built-in governance by the community.
 1. ADA implements a public treasury. This provides funds to support improvements throughout the entire lifetime of the protocol.
 1. Where ETH is working on ETH 2.0 to become more scalable, ADA can handle super-scale. As the network gains more users, it becomes even faster.
