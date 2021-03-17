@@ -42,6 +42,8 @@ date: 2021-03-16
 ## Price Potential
 
 1. ADA addresses the same market as ETH, namely it is a smart contract platform.
+1. ADA is leading the pack in research and pioneering sustainable blockchain governance systems. It is likely further ahead in permanently solving these problems than any other organization world-wide. Once these problems are fully solved, the way is clear for widespread growth of the Decentralized Autonomous Organization (DAO). These are organizations like companies or governments that have a treasury and can contract and pay "employees" directly to fulfil a common mission. However, these systems are opt-in by nature and participants can choose to leave at any time if desired. The entire system is fully transparent to all stakeholders and fully auditable in realtime. This is unlike the limited visibility a shareholder has into a regular company today. The theoretical limit to this use case is the market cap of all company and countries treasures, in addition to new companies that can only exist in this manner.
+1. ADA is leading the world on research to use blockchain to ensure fair, open, and provably honest and correct voting systems. It is pioneering this effort in solving this problem in 3rd world countries. If successful, it could become the standard way to conduct elections world-wide across democratic nations.
 
 ## Major Risks
 
