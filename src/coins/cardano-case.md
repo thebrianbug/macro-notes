@@ -34,11 +34,14 @@ date: 2021-03-16
    - Somehow, the team in ADA has managed to deliver working functionality again and again. They now have over 100 peer-reviewed papers which are implemented across their entire system. They release month after month code that has passed their massive arsenal of automated tests. And, they are getting faster at the whole process each time.
 1. Now that ETH exists, no other platform will be able to overtake it in adoption.
    - Companies will choose to build on the protocol that best allows them to fulfil their own goals. Today ETH has a huge problem with fees. It is working to gradually alleviate that problem. However, it is much more difficult to successfully rebuild the plane while still flying. Projects that don't need to support legacy systems yet can innovate faster than their predecessors.
+1. Frequently, the project with the undisputable best technology does not become the market leader.
+   - ADA is not ignoring facilitating real usage. The partnerships with 3rd world countries is leading to real usage that will be very slow to leave for any other platform. The innovation on top of ADA funded through the treasury is only getting bigger and more diverse. ADA has a solid chance to acquire real users. Unlike other platforms, when those users build on ADA they do not quickly run into the limit of what the technology can handle but instead largely have a good experience for the long term.
 
 ## Price Potential
 
 1. ADA addresses the same market as ETH, namely it is a smart contract platform.
 
 ## Major Risks
+
 
 ## Additional Resources
