@@ -51,6 +51,7 @@ date: 2021-03-16
 
 1. Projects on ETH do not want to leave ETH unless they are left with no other choice. However, high fees might force some projects to go elsewhere if ETH does not address congestion quickly enough. However, even the full proposed implementation of ETH 2.0 is not as scalable and efficient a system as ADA has designed from first-principles through peer-reviewed research.
 1. The High-Assurance Code process does take longer than other methods. In order to continue to grow, ADA needs to prove that it can continue to deliver results through such a rigorous process without falling too far behind to competitors who run while making no such guarantees of correctness.
+1. Charles Hoskinson is perhaps the most trusted founder in cryptocurrency by his own community. If for any reason he were unable to continue his work the protocol would undoubtedly suffer. However, Charles has taken many pains, including organizing ADA's work across three teams with perpetual funding arrangements, to ensure that the protocol lasts beyond his leadership. With the lead that ADA has on blockchain governance, ADA is probably the most likely to outlast any unexpected loss of their founder compared to its competition.
 
 ## Additional Resources
 
