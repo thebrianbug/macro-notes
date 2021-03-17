@@ -54,4 +54,4 @@ date: 2021-03-16
 
 ## Additional Resources
 
-- [Cardano's website](https://cardano.org/)
+- [Cardano's website](https://cardano.org/){target=\_blank}
