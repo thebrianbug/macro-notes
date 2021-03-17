@@ -48,6 +48,7 @@ date: 2021-03-16
 ## Major Risks
 
 1. Projects on ETH do not want to leave ETH unless they are left with no other choice. However, high fees might force some projects to go elsewhere if ETH does not address congestion quickly enough.
+1. The High-Assurance Code process does take longer than other methods. In order to continue to grow, ADA needs to prove that it can continue to deliver results through such a rigorous process without falling too far behind to competitors who run while making no such guarantees of correctness.
 
 ## Additional Resources
 
