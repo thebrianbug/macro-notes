@@ -47,6 +47,8 @@ date: 2021-03-16
 
 ## Major Risks
 
-1. Projects on ETH do not want to leave ETH unless they are left with no other choice.
+1. Projects on ETH do not want to leave ETH unless they are left with no other choice. However, high fees might force some projects to go elsewhere if ETH does not address congestion quickly enough.
 
 ## Additional Resources
+
+- [Cardano's website](https://cardano.org/)
