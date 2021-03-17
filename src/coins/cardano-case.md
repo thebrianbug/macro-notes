@@ -43,5 +43,6 @@ date: 2021-03-16
 
 ## Major Risks
 
+1. Projects on ETH do not want to leave ETH unless they are left with no other choice.
 
 ## Additional Resources
