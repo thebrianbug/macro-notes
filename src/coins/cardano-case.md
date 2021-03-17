@@ -7,7 +7,7 @@ date: 2021-03-16
 
 ## Overview
 
-1. Cardano (ADA) was developed as a smart-contract platform and an alterative to Ethereum. The main founders took their learnings as early members of ETH's team to create a new platform as an attempt to fix ETH's issues in a different way.
+1. Cardano (ADA) was developed as a smart-contract platform and an alterative to Ethereum. The main founders took their learnings as early founding members of ETH's team to create a new platform as an attempt to fix ETH's issues in a different way.
 1. ADA is fully open-source (the code is public) much more decentralized than some of its competitors. Additional features are on the roadmap to fulfil this ethos such as built-in governance by the community. ADA has also submitted their protocols to peer reviews by expert computer scientists, engineers, and mathematicians.
 1. ADA implements a public treasury. This provides funds to support improvements throughout the entire lifetime of the protocol.
 1. Where ETH is working on ETH 2.0 to become more scalable, ADA is massively scalable.
