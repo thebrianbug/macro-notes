@@ -32,6 +32,8 @@ date: 2021-03-16
 
 1. The High-Assurance Code process is too expensive and time-consuming to produce usable results in the real world fast enough.
    - Somehow, the team in ADA has managed to deliver working functionality again and again. They now have over 100 peer-reviewed papers which are implemented across their entire system. They release month after month code that has passed their massive arsenal of automated tests. And, they are getting faster at the whole process each time.
+1. Now that ETH exists, no other platform will be able to overtake it in adoption.
+   - Companies will choose to build on the protocol that best allows them to fulfil their own goals. Today ETH has a huge problem with fees. It is working to gradually alleviate that problem.
 
 ## Price Potential
 
