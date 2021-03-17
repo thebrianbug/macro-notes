@@ -24,6 +24,9 @@ date: 2021-03-16
 
 ## Major Bullish Arguments
 
+1. ADA literally writes the standards by which the rest of cryptocurrency is measured.
+1. ADA is unmatched in the technical prowess of their platform. It is a direct implementation of the best known to research in the field, much of which was funded by the project.
+
 ## Major Counterarguments
 
 1. The High-Assurance Code process is too expensive and time-consuming to produce usable results in the real world fast enough.
