@@ -27,6 +27,8 @@ date: 2021-03-16
 
 ## Price Potential
 
+1. ADA addresses the same market as ETH, namely it is a smart contract platform.
+
 ## Major Risks
 
 ## Additional Resources
