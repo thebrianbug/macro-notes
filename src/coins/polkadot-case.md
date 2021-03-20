@@ -20,6 +20,8 @@ date: 2021-03-16
 ## Major Bullish Arguments
 
 1. Wood's observation that many special-purpose systems can outperform a general-purpose system is true in many areas of technology and real life. This suggests that the many-blockchain future is very likely to occur. DOT makes operating in a future with many different blockchains much easier than was previously possible.
+1. DOT has achieved extraordinary popularity with developers since even before its launch. The DOT token has been in the top 10 cryptocurrencies by market cap for much of its existence, showing immense popularity with investors as well.
+1. By first focusing on the Layer-0 protocol, DOT has a chance to deliver production-ready products to market long before the upgrade to ETH 2.0 is complete.
 
 ## Major Counterarguments
 
