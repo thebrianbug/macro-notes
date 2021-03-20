@@ -24,8 +24,11 @@ date: 2021-03-16
 ## Major Counterarguments
 
 1. Other blockchains have built better performing Layer-1 solutions than have yet been built on DOT.
+   - While that may be true for some Layer-1 projects today, other projects are taking advantage of the greater flexibility on DOT to allow for more niche applications that would not be practical to build on other systems.
 1. Other blockchains have also been built to make blockchain interoperability easier.
+   - This is true. A few examples of blockchains that also facilitate interoperability include Chainlink and Cardano. Polkadot does not need to be the only solution for interoperability in order to achieve mass adoption.
 1. Since DOT is focusing on the Layer-0 core protocol, other teams are creating many of the Layer-1 parachains. These other teams are frequently not as technically skilled and thus errors will be more common on the DOT system than competing Layer-1 options.
+   - While this may be largely true for now, developers and entrepreneurs are becoming more proficient with blockchain technology all the time. A system that makes many experiments in blockchains easy with a "move fast and break things" ethos can create many casualties. However, though Darwinian survival of the fittest eventually robust and mature solutions often are born out of such systems.
 
 ## Price Potential
 
