@@ -21,7 +21,7 @@ date: 2021-03-16
 
 1. Wood's observation that many special-purpose systems can outperform a general-purpose system is true in many areas of technology and real life. This suggests that the many-blockchain future is very likely to occur. DOT makes operating in a future with many different blockchains much easier than was previously possible.
 1. DOT has achieved extraordinary popularity with developers since even before its launch. The DOT token has been in the top 10 cryptocurrencies by market cap for much of its existence, showing immense popularity with investors as well.
-1. By first focusing on the Layer-0 protocol, DOT has a chance to deliver production-ready products to market long before the upgrade to ETH 2.0 is complete.
+1. By first focusing on more relatively narrow scope of their Layer-0 protocol, DOT has a chance to deliver a production-ready platform to market long before the upgrade to ETH 2.0 is complete. This is particularly true as many Layer-1 projects are already building protocols on DOT before work on Layer-0 is fully completed.
 
 ## Major Counterarguments
 
