@@ -23,6 +23,7 @@ date: 2021-03-16
 1. Wood's observation that many special-purpose systems can outperform a general-purpose system is true in many areas of technology and real life. This suggests that the many-blockchain future is very likely to occur. DOT makes operating in a future with many different blockchains much easier than was previously possible.
 1. DOT has achieved extraordinary popularity with developers since even before its launch. The DOT token has been in the top 10 cryptocurrencies by market cap for much of its existence, showing immense popularity with investors as well.
 1. By first focusing on more relatively narrow scope of their Layer-0 protocol, DOT has a chance to deliver a production-ready platform to market long before the upgrade to ETH 2.0 is complete. This is particularly true as many Layer-1 projects are already building protocols on DOT before work on Layer-0 is fully completed.
+1. DOT has provided robust solutions for democratically solving governance disputes directly through its protocol. This will likely protect DOT from many technical and idealistic hard-forks (splintering) within their community.
 
 ## Major Counterarguments
 
@@ -30,6 +31,8 @@ date: 2021-03-16
    - While that may be true for some Layer-1 projects today, other projects are taking advantage of the greater flexibility on DOT to allow for more niche applications that would not be practical to build on other systems.
 1. Other blockchains have also been built to make blockchain interoperability easier.
    - This is true. A few examples of blockchains that also facilitate interoperability include Chainlink and Cardano. Polkadot does not need to be the only solution for interoperability in order to achieve mass adoption.
+1. Other blockchains have also provided robust solutions to governance disputes on-chain.
+   - This is true. However, DOT will still be able to reap the likely benefits of a more unified community and plan because of this decision.
 1. Since DOT is focusing on the Layer-0 core protocol, other teams are creating many of the Layer-1 parachains. These other teams are frequently not as technically skilled and thus errors will be more common on the DOT system than competing Layer-1 options.
    - While this may be largely true for now, developers and entrepreneurs are becoming more proficient with blockchain technology all the time. A system that makes many experiments in blockchains easy with a "move fast and break things" ethos can create many casualties. However, though Darwinian survival of the fittest eventually robust and mature solutions often are born out of such systems.
 
