@@ -40,7 +40,8 @@ date: 2021-03-16
 
 ## Price Potential
 
-1. DOT can act as a smart-contract platform such as Ethereum. However, much of its use cases are likely to come through more specialized use cases of blockchain.
+1. DOT can act as a smart-contract platform such as Ethereum. However, much of its use cases are likely to come through more specialized use cases of blockchain. Overall, DOT can be expected to enable an even greater variety of use cases than are possible or practical to run on Ethereum or other smart contract specialized platforms, less those which run worse on DOT than competitors. One example of a system that may run poorly on DOT is one that has no use for the extensive interoperability DOT requires. Such a system could perhaps be better serviced on some competing platform. In any case, it seems reasonable to assume that the total value of DOT will be proportional to the total economic value both stored and in transfer on its parachains. This in turn might likely prove proportional to the total value in transit via smart contracts. Unfortunately, it is likely too early in the development of the industry to supply a more accurate pricing model.
+1. DOT also is subject to the yet-ambiguous question of precisely how much value will be captured on the lower-level protocols vs the applications built on top of them. As DOT is a lower-level protocol compared to ETH and thus further removed from the application layer, does this imply a lesser portion of value will be captured on it? Or, will the greater customization it allows create so many more use cases as to become much more valuable as a token? Time will provide these answers.
 
 ## Major Risks
 
