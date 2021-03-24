@@ -46,7 +46,7 @@ date: 2021-03-16
 
 1. Due to the ease of experimentation on DOT, many protocols and projects are likely to make fatal mistakes. However, gems are also likely to rise out of such an environment. A similar argument can be made for all platforms that facilitate smart contract development.
 1. The DOT blockchain is significantly different from existing blockchains at a technical level in many ways. While much of the research and experience from other project can be translated over to DOT, the process is not always easy. DOT will face and need to overcome unique problems and challenges, some of which have not yet been solved or fully proven in the industry.
-1. DOT, like most crypto projects, has not yet fully specified how they plan to solve all technical hurdles in their system. However, clear goalposts have been outlined, much work has been done, and steady progress is being made.
+1. DOT, like most crypto projects, has not yet fully specified how they plan to solve all technical hurdles in their system. For example, difficult and unique situations can arise on DOT such as parachains with too different economic values or network usage overwhelming lesser chains, etc. However, many such yet unsolved problems have been acknowledged, clear goalposts have been outlined, much work has been done, and steady progress is being made.
 
 ## Additional Resources
 
