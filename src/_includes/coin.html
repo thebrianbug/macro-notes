@@ -10,7 +10,13 @@ prism: true
       The case for {{ ticker }} • <time> {{ date | readableDate }} </time>
     </p>
   </div>
-  <article class="prose lg:prose-xl my-4 mx-auto">{{ content | safe }}</article>
+  <article class="prose lg:prose-xl my-4 mb-6 mx-auto">{{ content | safe }}</article>
+
+  <div class="container flex flex-wrap">
+    <div class="py-5 px-10 ml-auto border rounded border-gray-200 hover:border-purple-400">
+      Next →
+    </div>
+  </div>
 
   <div class="w-full flex justify-center">
     {% include "./partials/newsletter_form.html" %}
