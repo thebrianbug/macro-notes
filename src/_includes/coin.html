@@ -12,16 +12,16 @@ prism: true
   </div>
   <article class="prose lg:prose-xl my-4 mb-6 mx-auto">{{ content | safe }}</article>
 
-  <div class="container flex flex-wrap">
+  <div class="container w-full flex flex-wrap place-items-stretch">
     {% set previous = collections.coin | getPreviousCollectionItem(page) %}
     {% if previous %}
-    <a href="{{ previous.url | url }}" class="py-5 px-10 border rounded border-gray-200 hover:border-purple-400">
+    <a href="{{ previous.url | url }}" class="m-1 p-5 mx-auto sm:px-10 sm:ml-0 border rounded border-gray-200 hover:border-purple-400">
       ← Previous: {{previous.data.name}}
     </a>
     {% endif %}
     {% set next = collections.coin | getNextCollectionItem(page) %}
     {% if next %}
-    <a href="{{ next.url | url }}" class="py-5 px-10 ml-auto border rounded border-gray-200 hover:border-purple-400">
+    <a href="{{ next.url | url }}" class="m-1 p-5 mx-auto sm:px-10 sm:mr-0 sm:ml-auto border rounded border-gray-200 hover:border-purple-400">
       Next: {{next.data.name}} →
     </a>
     {% endif %}
