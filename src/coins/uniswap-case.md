@@ -20,3 +20,4 @@ date: 2021-03-29
 - [Website](https://uniswap.org/)
 - [Uniswap V3 Specification](https://uniswap.org/blog/uniswap-v3/)
 - [Uniswap V3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+- [UNI Token](https://uniswap.org/blog/uni/)
