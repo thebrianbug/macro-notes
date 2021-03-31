@@ -22,6 +22,9 @@ date: 2021-03-29
 
 ## Major Counterarguments
 
+1. UNI does not currently support trading assets that are not on the Ethereum platform.
+   - This is somewhat misleading. Many solutions have been created to act as "bridges" for different cryptocurrencies and even non-crypto financial assets. For example, Wrapped BTC has created a way to own BTC on Ethereum, though perhaps not as seamlessly as could be desired. Coinbase has created their USDC as a reserve-backed US Dollar on the Ethereum network. Finally, much work has been done to facilitate "atomic swaps" of cryptocurrencies without needing to trust a party to hold reserves. It is expected that these and other solutions will continue to mature in time.
+
 ## Price Potential
 
 ## Major Risks
