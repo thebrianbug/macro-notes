@@ -31,8 +31,8 @@ date: 2021-03-29
 
 ## Price Potential
 
-1. One place to look to in evaluating UNI would be centralized exchanges. Coinbase, Binance...
-1. UNI has already been used to facilitate over $187 Billion in transactions.
+1. One place to look to in evaluating UNI would be centralized exchanges. Currently, UNI is used mostly with crypto-to-crypto exchanges. The largest exchange that shares that focus is Binance, which currently facilitates about $29 Billion in daily transactions on its centralized exchange. The semi-decentralized Binance Smart Chain currently supports around 3 million transactions per day.
+1. UNI has already been used to facilitate over $187 Billion in transactions since inception.
 
 ## Major Risks
 
