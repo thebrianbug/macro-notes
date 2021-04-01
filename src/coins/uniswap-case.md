@@ -31,6 +31,9 @@ date: 2021-03-29
 
 ## Price Potential
 
+1. One place to look to in evaluating UNI would be centralized exchanges. Coinbase, Binance...
+1. UNI has already been used to facilitate over $187 Billion in transactions.
+
 ## Major Risks
 
 ## Additional Resources
