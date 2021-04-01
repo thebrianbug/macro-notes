@@ -38,6 +38,7 @@ date: 2021-03-29
 
 1. UNI V3 was expected to launch at the same time as its layer-2 scaling solution. UNI has announced that it's layer-2 will occur a few weeks after the V3 upgrade, but have not yet given a date. Some have interpreted this as a warning of potential problems with the layer-2 solution as it is not at the same time. However, this minor delay can help ensure a successful launch of V3 on layer-1. As long as it is quickly followed by another successful launch of layer-2, UNI will likely do well. But, if layer-2 delivery becomes truly delayed it would definitely remain a negative issue for the entire UNI and ETH community.
 1. UNI V3 pioneers several new concepts that have never before been combined in a single protocol. There is a chance that some of its innovations may have unforeseen or unintended consequences. However, the UNI team has proven their ability to deliver with two previous versions so the likelihood of such a failure seems relatively low.
+1. Many DeXs have previously copied features or even the entire Uniswap codebase as it is open-source. With V3, UNI has introduced a commercial licence of its code to reduce copy-cats. Even so, other DeXs will still be able to re-implement many ideas pioneered on UNI. However, DeXs can only facilitate trade when enough liquidity is available in the pool to execute a given trade. If UNI retains the largest liquidity, they will be able to provide the best overall order execution regardless of copy-cats.
 
 ## Additional Resources
 
