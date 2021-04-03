@@ -14,7 +14,7 @@ date: 2021-04-1
 
 ## Major Bullish Arguments
 
-1. Almost every project in DeFi needs an accurate index of blockchain data.
+1. Almost every dApp needs an accurate index of blockchain data.
 
 ## Major Counterarguments
 
