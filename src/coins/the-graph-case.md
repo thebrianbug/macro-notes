@@ -14,7 +14,11 @@ date: 2021-04-1
 
 ## Major Bullish Arguments
 
+1. Almost every project in DeFi needs an accurate index of blockchain data.
+
 ## Major Counterarguments
+
+1. The token distribution for GRT happened to quickly to have allowed for sufficient decentralization of the token.
 
 ## Price Potential
 
