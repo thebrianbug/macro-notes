@@ -28,6 +28,9 @@ date: 2021-04-1
 
 ## Price Potential
 
+1. Almost every dApp will need to depend on an index of blockchain data to achieve reasonable speed and efficiency. The Graph has proven that index can be external to individual dApps without sacrificing performance or security. It seems reasonable to assume that the total value of indexing protocols like GRT can become proportional to the total value created by the dApps that use them.
+1. GRT functions as a blockchain index, but also shares many similarities with oracle protocols such as Chainlink. Though the usage is different, many of the same dApps that leverage one may also implement the other. GRT could perhaps secure a stable position similar to LINK, though perhaps it would be unlikely to surpass it in valuation.
+
 ## Major Risks
 
 ## Additional Resources
