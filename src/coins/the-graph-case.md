@@ -23,7 +23,7 @@ date: 2021-04-1
 
 ## Major Counterarguments
 
-1. The token distribution for GRT is scheduled to happen far too quickly to allow for price appreciation. Increasing the base supply by 3x in just 6 months may be too much for the community to absorb without dumping the price. This is likely a major part of the reason why although GRT is used by so many projects, the price of the token has not yet appreciated proportionally to reflect that usage.
+1. The token distribution for GRT is scheduled to happen far too quickly to allow for price appreciation. Increasing the base supply by 3x in just 6 months may be too much for the community to absorb without dumping the price. This is likely a major part of the reason why although GRT is used by so many projects, the price of the token has not as of yet appreciated proportionally to reflect that usage.
 1. The original Graph Foundation has preserved too much control of GRT with not enough of the token delegated to the community. This can create a risk of centralization especially in future governance decisions for the project.
 
 ## Price Potential
