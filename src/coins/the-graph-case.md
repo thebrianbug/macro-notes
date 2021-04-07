@@ -16,10 +16,15 @@ date: 2021-04-1
 ## Major Bullish Arguments
 
 1. Almost every dApp needs an accurate index of blockchain data.
+1. Many major players are already depending on The Graph for their products or partnering including Uniswap, Synthetics, and Coinbase. The Graph is already seeing widespread usage and adoption by the dApp community even in its current form.
+1. GRT has the potential to become net-deflationary as 1% of query fees are burnt.
+1. GRT has a treasury managed by the Graph Council, who can finance future improvements to the project. This process is transitioning to becoming (hopefully) more decentralized and community driven than the original Graph Foundation's direct leadership.
+1. GRT can support other non-Ethereum blockchains, with no real theoretical limit to which blockchains can be indexed by the protocol.
 
 ## Major Counterarguments
 
-1. The token distribution for GRT happened to quickly to have allowed for sufficient decentralization of the token.
+1. The token distribution for GRT is scheduled to happen far too quickly to allow for price appreciation. Increasing the base supply by 3x in just 6 months may be too much for the community to really absorb.
+1. The original Graph Foundation has preserved too much control of GRT with not enough of the token delegated to the community. This can create a risk of centralization especially in future governance decisions for the project.
 
 ## Price Potential
 
