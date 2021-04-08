@@ -24,7 +24,9 @@ date: 2021-04-1
 ## Major Counterarguments
 
 1. The token distribution for GRT is scheduled to happen far too quickly to allow for price appreciation. Increasing the base supply by 3x in just 6 months may be too much for the community to absorb without dumping the price. This is likely a major part of the reason why although GRT is used by so many projects, the price of the token has not as of yet appreciated proportionally to reflect that usage.
+    - While this may indeed limit price appreciation temporarily, this particular downward pressure should last no longer than those months. Eventually, GRT is likely to find a bottom in price and appreciate from there.
 1. The original Graph Foundation has preserved too much control of GRT with not enough of the token delegated to the community. This can create a risk of centralization especially in future governance decisions for the project.
+    - The Graph's founders have proven the technical talent and vision by creating a protocol that is already used by so many. They have already begun taking steps to increase the decentralization of the system. Many of the innovation in healthy governance of decentralized systems was not as fully explored when GRT launched as it is today. It seems likely that The Graph did not implement more decentralization earlier as it was first solving the technical problem at hand. It also seems unreasonable that The Graph would long remain overly centralized as that risks impeding growth and thus the profit of GRT, which is the token used in the treasury. We should see over the next year if the team of The Graph follows through with their verbal commitments to greater decentralization.
 
 ## Price Potential
 
@@ -32,6 +34,9 @@ date: 2021-04-1
 1. GRT functions as a blockchain index, but also shares many similarities with oracle protocols such as Chainlink. Though the usage is different, many of the same dApps that leverage one may also implement the other. GRT could perhaps secure a stable position similar to LINK, though perhaps it would be unlikely to surpass it in valuation.
 
 ## Major Risks
+
+1. Even while GRT grows in usage, the sudden unlock of 3x the current supply in just 6 months would almost certainly create more net supply than demand at least for a portion of that time period.
+1. The Graph is not yet as fully decentralized as other important DeFi projects. However, the team has committed to improving that. As long as the team follows though with that, the protocol should be able to do well. But, there is always a chance that the team may not fully push the project to the high level of decentralization desired by some in the DeFi community. Should that happen it could open the door to a competing protocol with greater decentralization in governance taking market share.
 
 ## Additional Resources
 
