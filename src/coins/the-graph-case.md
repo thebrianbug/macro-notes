@@ -35,7 +35,7 @@ date: 2021-04-1
 
 ## Major Risks
 
-1. Even while GRT grows in usage, the sudden unlock of 3x the current supply in just 6 months would almost certainly create more net supply than demand at least for a portion of that period.
+1. Even while GRT grows in usage, the sudden unlock of 3x the current supply in just 6 months would almost certainly create more net supply than demand at least for a portion of that period. The majority of the rest of the token supply should become unlocked to the various investors / treasury over the next 2 years.
 1. The Graph is not yet as fully decentralized as other important DeFi projects. However, the team has committed to improving that. As long as the team follows through with that, the protocol should be able to do well. But, there is always a chance that the team may not fully push the project to the high level of decentralization desired by some in the DeFi community. Should that happen it could open the door to a competing protocol with greater decentralization in governance taking market share.
 
 ## Additional Resources
