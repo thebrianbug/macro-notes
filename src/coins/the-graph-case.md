@@ -2,7 +2,7 @@
 layout: coin
 name: The Graph
 ticker: GRT
-date: 2021-04-1
+date: 2021-04-01
 ---
 
 ## Overview
