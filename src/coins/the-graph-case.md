@@ -17,6 +17,7 @@ date: 2021-04-1
 
 1. Almost every dApp needs an accurate index of blockchain data.
 1. Many major players are already depending on The Graph for their products or partnering including Uniswap, Synthetics, and Coinbase. The Graph is already seeing widespread usage and adoption by the dApp community even in its current form.
+1. The Graph protocol has been audited by three independent blockchain entities.
 1. GRT has the potential to become net-deflationary as 1% of query fees are burnt.
 1. GRT has a treasury managed by the Graph Council, which can finance future improvements to the project. This process is transitioning to becoming (hopefully) more decentralized and community-driven than the original Graph Foundation's direct leadership.
 1. GRT can support other non-Ethereum blockchains, with no real theoretical limit to which blockchains can be indexed by the protocol.
