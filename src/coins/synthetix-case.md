@@ -7,7 +7,7 @@ date: 2021-04-10
 
 ## Overview
 
-1. Synthetix (SNX) is a decentralized protocol to bring functional derivatives to cryptocurrency. A derivative or synthetic asset is a [financial contract](https://www.thebalance.com/what-are-derivatives-3305833){target=\_blank} where the holder agrees to purchase a specific asset at a specific date and price. These contracts can typically be traded much more easily than the underlying asset. Traditionally derivatives are especially used for trading commodities such as oil, but are now also used in many other additional markets.
+1. Synthetix (SNX) is a decentralized protocol to bring functional derivatives to cryptocurrency. A derivative or synthetic asset is a [financial contract](https://www.thebalance.com/what-are-derivatives-3305833){target=\_blank} that allows the holder to purchase a specific asset at a specific date and price. These contracts can typically be traded much more easily than the underlying asset. Traditionally derivatives are especially used for trading commodities such as oil, but are now also used in many other additional markets.
 1. The derivatives market is the largest financial market worldwide and estimated to be as large as a [quadrillion dollars](https://www.investopedia.com/ask/answers/052715/how-big-derivatives-market.asp){target=\_blank}, though there is debate that the figure may be overestimated.
 1. SNX currently supports commodities, fiat currencies, and cryptocurrency markets.
 1. The Synthetics protocol is built on Ethereum and is used by many other projects in DeFi. It is one of the most used protocols on Ethereum, with over $2 billion locked in contracts already.
