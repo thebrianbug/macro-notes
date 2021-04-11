@@ -14,6 +14,8 @@ date: 2021-04-10
 
 ## Major Counterarguments
 
+1. Cryptocurrency is much easier to trade freely than most assets and is becoming even easier all the time. This may decrease the total demand for trading derivatives rather than using the underlying asset directly.
+
 ## Price Potential
 
 ## Major Risks
