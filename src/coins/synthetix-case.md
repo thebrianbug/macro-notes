@@ -18,6 +18,8 @@ date: 2021-04-10
 
 ## Major Bullish Arguments
 
+1. The world of traditional finance has already voted the derivative market to be the most valuable single market in the world by market cap. Bringing this functionality on to blockchain as a native feature drastically increases the usefulness of cryptocurrency.
+
 ## Major Counterarguments
 
 1. Cryptocurrency is much easier to trade freely than most assets and is becoming even easier all the time. This may decrease the total demand for trading derivatives rather than using the underlying asset directly.
@@ -25,6 +27,9 @@ date: 2021-04-10
 ## Price Potential
 
 ## Major Risks
+
+1. Parts of the Synthetix system are still under centralized control. They are working to replace these aspects with decentralized equivalents over time, but some do not yet have decentralized equivalents. This should improve over time as the industry around DeFi continues to mature.
+1. Participating directly in Synthetics as a staker can lead to a situation where more tokens must be burned than you originally put into the system. Individuals should not attempt to do so without fully understanding the risks they accept by helping to maintain the system.
 
 ## Additional Resources
 
