@@ -23,6 +23,7 @@ date: 2021-04-10
 ## Major Counterarguments
 
 1. Cryptocurrency is much easier to trade freely than most assets and is becoming even easier all the time. This may decrease the total demand for trading derivatives rather than using the underlying asset directly.
+1. When traders begin to trade more on synthetic assets, especially leveraged synthetic assets, it can destabilize the price action of the underlying asset.
 
 ## Price Potential
 
