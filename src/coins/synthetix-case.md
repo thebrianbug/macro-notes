@@ -30,6 +30,7 @@ date: 2021-04-10
 ## Price Potential
 
 1. As previously stated, the world of traditional finance has already voted the derivative market to be the most valuable single market in the world by [market cap](https://www.investopedia.com/ask/answers/052715/how-big-derivatives-market.asp){target=\_blank}. More conservative calculations still place it as one of the major world markets.
+1. A second and easier to measure metric would be that all synthetic crypto assets should remain proportional to the underlying market cap to the asset they track. Synthetic assets in the existing financial system can be looked to for clues as to what that maximum healthy leverage ratio should be. As long as crypto markets continue to rise, it makes sense that financial contracts based on crypto assets would also rise in value at the system-level.
 
 ## Major Risks
 
