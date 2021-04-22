@@ -19,6 +19,8 @@ date: 2021-04-10
 ## Major Bullish Arguments
 
 1. The world of traditional finance has already voted the derivative market to be one of the most valuable markets in the world by market cap. Bringing this functionality on to blockchain as a native feature drastically increases the usefulness of cryptocurrency.
+1. Some existing financial assets cannot be easily represented in cryptocurrencies. Synthetic contracts can become an important bridge between the real world and cryptocurrency as the ecosystem continues to mature.
+1. Large-scale investing in short contracts can leave you at the mercy of a few large players in the traditional financial system. Historically, some of the largest brokerage and other institutions have been known to change their short requirements (i.e. increased their margin requirements) just as these investments become profitable. For the brokerage, this makes sense because when shorts are winning big, all their other investors are generally taking major losses. This puts the bottom line of these institutions at risk. Crypto-based investment contracts can't be altered just because the facilitator's bottom line is at-risk. Instead, participants are beholden to abide by their agreements even during times that are less profitable for them.
 
 ## Major Counterarguments
 
@@ -33,6 +35,7 @@ date: 2021-04-10
 
 1. Parts of the Synthetix system are still under centralized control. They are working to replace these aspects with decentralized equivalents over time, but some do not yet have decentralized equivalents. This should improve over time as the industry around DeFi continues to mature.
 1. Participating directly in Synthetics as a staker can lead to a situation where more tokens must be burned than you originally put into the system. Individuals should not attempt to do so without fully understanding the risks they accept by helping to maintain the system.
+1. Too much leverage in a financial system destabilizes the price action of the underlying asset. This may apply more to the assets under Synth contracts than the SNX token itself as other tokens may be comparatively more leveraged.
 
 ## Additional Resources
 
