@@ -25,6 +25,7 @@ date: 2021-04-10
 ## Major Counterarguments
 
 1. Cryptocurrency is much easier to trade freely than most assets and is becoming even easier all the time. This may decrease the total demand for trading derivatives rather than using the underlying asset directly.
+   - While this may have some truth to it when compared to the existing financial system, it does not capture the totality of the investment world. Many investor participants depend on strategies that are more complex than simple buy-and-hold. Synthetic financial contracts allow investors to express more nuanced financial views. These can include views such as price depreciation, short-term movements with leverage, and complex relationships between assets such as one asset appreciating while another depreciates by some specified amount. Investors will always need a place to express these more nuanced views on assets.
 1. When traders begin to trade more on synthetic assets, especially leveraged synthetic assets, it can destabilize the price action of the underlying asset.
 
 ## Price Potential
