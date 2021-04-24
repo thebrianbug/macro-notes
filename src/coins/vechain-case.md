@@ -13,6 +13,7 @@ date: 2021-04-24
 1. VET is extremely well diversified in its token distribution.
 1. VeChain runs on top of the Ethereum network, allowing for easy connectivity with many other cryptocurrency projects.
 1. VeChain is currently experimenting with the potential of diversifying the network to providing solutions for NFTs and DeFi.
+1. VeChain is coming out with a key update in their consensus system which they call 2.0. This is expected to vastly increase throughput of the system and remove the possibility of hard-forks in their network.
 
 ## Major Bullish Arguments
 
