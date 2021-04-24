@@ -8,7 +8,7 @@ date: 2021-04-24
 ## Overview
 
 1. VeChain (VET) is a cryptocurrency focused on revolutionizing supply chain management world-wide.
-1. One of the key utilities of VeChain allows suppliers to record and track the entire history of their products at every stage of production.
+1. One of the key utilities of VeChain allows suppliers to record and track the entire history of their products at every stage of production. This is done by issuing a digital tag for each individual product at the start of the product's creation. As the product continues to be created an entry is made on VeChain for each stage of that creation for each product. All-in-all, this provides an entire history for a product - where it was shipped, how it was made, where components came from, or anything else that companies choose to record on the blockchain. Finally, this history can be made available to customers as digital evidence towards the authenticity and quality of that product.
 1. VeChain utilizes a two-token model for the financials of their network. VET is used for ... while VTHO is used for.
 1. VET is extremely well diversified in its token distribution.
 1. VeChain runs on top of the Ethereum network, allowing for easy connectivity with many other cryptocurrency projects.
