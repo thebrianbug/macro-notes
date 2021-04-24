@@ -18,6 +18,8 @@ date: 2021-04-24
 
 ## Major Counterarguments
 
+1. VeChain lacks a clear roadmap.
+
 ## Price Potential
 
 ## Major Risks
