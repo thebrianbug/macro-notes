@@ -29,4 +29,5 @@ date: 2021-04-24
 
 ## Additional Resources
 
+- [Website](https://www.vechain.org/)
 - [VeChain Whitepaper](https://www.vechain.org/whitepaper/)
