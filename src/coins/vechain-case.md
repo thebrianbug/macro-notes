@@ -28,3 +28,5 @@ date: 2021-04-24
 ## Major Risks
 
 ## Additional Resources
+
+- [VeChain Whitepaper](https://www.vechain.org/whitepaper/)
