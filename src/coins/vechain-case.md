@@ -25,6 +25,7 @@ date: 2021-04-24
 ## Major Counterarguments
 
 1. VeChain lacks a clear roadmap.
+1. Proof of Authority (PoA) is less secure than other consensus algorithms, which could make VeChain more susceptible to malicious actors.
 
 ## Price Potential
 
