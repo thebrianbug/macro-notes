@@ -19,10 +19,12 @@ date: 2021-04-24
 ## Major Bullish Arguments
 
 1. VeChain has proven itself as a major contributor to the innovation of enterprise blockchain across all major domains. It has existing clients using its technology to solve real problems. Many complex problems facing the cryptocurrency ecosystem now have robust solutions implemented on VeChain.
-1. VeChain has many existing and new partnerships with real companies both within the cryptocurrency area and without. All of these participants are experimenting with and/or committing to trusting VeChain as their platform of choice for handling their businesses interests on blockchain.
+1. VeChain has many existing and new partnerships with companies both within the cryptocurrency area and without. All of these participants are experimenting with and/or committing to trusting VeChain as their platform of choice for handling their businesses interests on blockchain.
 
 ## Major Counterarguments
 
+1. Some of VeChain's "partnerships" have been found to be slightly exaggerated. A few companies have issued statements clarifying the status of their relationship with VeChain as slightly less committed than one can be led to believe by statements posted by VeChain or its community.
+   - While this has happened in some cases, it does not seem to have been widespread; most claimed partnerships have appeared to be legitimate. It is very common in startups to have some corporate relationships described as slightly more intimate than the reality. Sometimes this is due to misinterpretation on the part of the community and others it can be a conscious exaggeration of the CEO. Most of the data needed to verify such statements is available publicly should concerns persist.
 1. VeChain lacks a clear roadmap.
 1. Proof of Authority (PoA) is less secure than other consensus algorithms, which could make VeChain more susceptible to malicious actors.
 1. Proof of Authority (PoA) is less decentralized than Proof of Work, Proof of Stake, etc. This can make VeChain comparatively less resilient.
