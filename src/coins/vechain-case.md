@@ -25,7 +25,8 @@ date: 2021-04-24
 
 1. Some of VeChain's "partnerships" have been found to be slightly exaggerated. A few companies have issued statements clarifying the status of their relationship with VeChain as slightly less committed than one can be led to believe by statements posted by VeChain or its community.
    - While this has happened in some cases, it does not seem to have been widespread; most claimed partnerships have appeared to be legitimate. It is very common in startups to have some corporate relationships described as slightly more intimate than the reality. Sometimes this is due to misinterpretation on the part of the community and others it can be a conscious exaggeration of the CEO. Most of the data needed to verify such statements is available publicly should concerns persist.
-1. VeChain lacks a clear roadmap.
+1. VeChain lacks an official roadmap with concrete delivery dates.
+   - This has been true of some large players in the space. While general goals and vision have been supplied via their updated whitepaper, it is true that a detailed map to delivery seems lacking. This may change in the future. If not, it is possible that progress can be alternatively monitored by those interested based on the frequency and content of the technical updates.
 1. Proof of Authority (PoA) is less secure than other consensus algorithms, which could make VeChain more susceptible to malicious actors.
 1. Proof of Authority (PoA) is less decentralized than Proof of Work, Proof of Stake, etc. This can make VeChain comparatively less resilient.
 
