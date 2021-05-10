@@ -18,7 +18,7 @@ date: 2021-04-24
 
 ## Major Bullish Arguments
 
-1. VeChain has proven itself as a major contributor to the innovation of enterprise blockchain across many major domains. It has existing clients using its technology to solve real problems. Many complex problems facing the cryptocurrency ecosystem now have robust solutions implemented on VeChain.
+1. VeChain has proven itself as a major contributor to the innovation of enterprise blockchain across many major domains. It has existing clients using its technology to solve real problems. Many complex problems facing the cryptocurrency ecosystem now have robust solutions implemented on VeChain. Examples include the sophisticated elected governance model, its two-token economics, and fee-free use due to fee delegation.
 1. VeChain has many existing and new partnerships with companies both within the cryptocurrency area and without. All of these participants are experimenting with and/or committing to trusting VeChain as their platform of choice for handling their businesses interests on blockchain.
 
 ## Major Counterarguments
