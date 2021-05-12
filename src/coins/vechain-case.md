@@ -38,7 +38,7 @@ date: 2021-04-24
 ## Major Risks
 
 1. VeChain needs to continue to deliver the functionality outlined in its updated whitepaper. As long as consistent releases continue, VeChain is likely to deliver on the technical features outlined. On the other hand, if they were to repeatably delay releases this may be a signal of technical challenges.
-1. VeChain has built a compelling platform for business blockchains. In order for it to succeed, more businesses need to accept it and build useful projects on it. Additionally, a large portion of these projects need to be business-critical applications rather than proof of concepts or fringe uses. Almost no businesses have yet found use cases for blockchain technology outside of an alternative asset class useful for protecting their balance sheet. Even that only applies to just a handful of companies. We have a long way to go until companies rely on blockchain tech themselves.
+1. VeChain has built a compelling platform for business blockchains. In order for it to succeed, more businesses need to accept it and build useful projects on it. Additionally, a large portion of these projects need to be business-critical applications rather than proof of concepts or fringe uses. Almost no businesses have yet successfully invested in blockchain technology other than as a non-correlated asset class useful for protecting their balance sheet. Even that use only applies to just a handful of companies. We have a long way to go until companies build and rely on blockchain tech themselves.
 
 ## Additional Resources
 
