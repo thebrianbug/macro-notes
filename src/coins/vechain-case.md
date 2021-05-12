@@ -27,8 +27,8 @@ date: 2021-04-24
    - While this has happened in some cases, it does not seem to have been widespread; most claimed partnerships have appeared to be legitimate. It is very common in startups to have some corporate relationships described as slightly more intimate than may be reality. Sometimes this is due to misinterpretation on the part of the community and others it can be a conscious exaggeration of the CEO. Some CEOs of even established companies are known to paint their company in the best possible light. Concerns can easily be addressed by those interested as most of the data needed to verify such statements is available publicly if one puts in the effort to find it.
 1. VeChain lacks an official roadmap with concrete delivery dates.
    - This has been true of some large players in the space. While general goals and vision have been supplied via their updated whitepaper, it is true that a detailed map to delivery seems lacking. This may change in the future. If not, it is possible that progress can be alternatively monitored by those interested based on the frequency and content of the technical updates.
-1. Proof of Authority (PoA) is less secure than other consensus algorithms, which could make VeChain more susceptible to malicious actors.
-1. Proof of Authority (PoA) is less decentralized than Proof of Work, Proof of Stake, etc. This can make VeChain comparatively less resilient.
+1. Proof of Authority (PoA) is less secure and less decentralized than other consensus algorithms, which could make VeChain more susceptible to malicious actors.
+   - This is all a question of tradeoffs. It is true that PoA is less directly decentralized that other Proof of Stake options, but this can be offset by frequently changing validators selected at random. On the other hand, this allows VeChain to make decisions with only the votes of representatives of the various types of participants rather than needing to sway a super majority of voters on every upgrade.
 
 ## Price Potential
 
