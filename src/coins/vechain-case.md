@@ -20,6 +20,8 @@ date: 2021-04-24
 
 1. VeChain has proven itself as a major contributor to the innovation of enterprise blockchain across many major domains. It has existing clients using its technology to solve real problems. Many complex problems facing the cryptocurrency ecosystem now have robust solutions implemented on VeChain. Examples include the sophisticated elected governance model, its two-token economics, and fee-free use due to fee delegation.
 1. VeChain has many existing and new partnerships with companies both within the cryptocurrency area and without. All of these participants are experimenting with and/or committing to trusting VeChain as their platform of choice for handling their businesses interests on blockchain.
+1. VeChain made a proactive effort to be compliant to emerging crypto regulations from day 1. They have continued to add more functionality to ensure that their chain is flexible enough to comply with future regulation.
+1. VeChain is in a class almost entirely on its own for servicing enterprise customers. Competition is still virtually non-existent. While Amazon, Google and other large tech companies are looking to expand into enterprise crypto, IBM has [closed it's blockchain division](https://elevenews.com/2021/02/02/vechain-competitor-ibm-is-dissolving-its-blockchain-division/).
 
 ## Major Counterarguments
 
@@ -38,7 +40,7 @@ date: 2021-04-24
 ## Major Risks
 
 1. VeChain needs to continue to deliver the functionality outlined in its updated whitepaper. As long as consistent releases continue, VeChain is likely to deliver on the technical features outlined. On the other hand, if they were to repeatably delay releases this may be a signal of technical challenges.
-1. VeChain has built a compelling platform for business blockchains. In order for it to succeed, more businesses need to accept it and build useful projects on it. Additionally, a large portion of these projects need to be business-critical applications rather than proof of concepts or fringe uses. Almost no businesses have yet successfully invested in blockchain technology other than as a non-correlated asset class useful for protecting their balance sheet. Even that use only applies to just a handful of companies. We have a long way to go until companies build and rely on blockchain tech themselves.
+1. VeChain has built a compelling platform for business blockchains. In order for it to succeed, more businesses need to accept it and build useful projects on it. Additionally, a large portion of these projects need to be business-critical applications rather than proof of concepts or fringe uses. Almost no businesses have yet successfully invested in blockchain technology other than as a non-correlated asset class useful for protecting their balance sheet. Even that use only applies to just a handful of companies. We have a long way to go until companies build and rely on blockchain tech themselves. Lack of initial use cases is a major enough concern that it forced IBM to [close its blockchain division](https://elevenews.com/2021/02/02/vechain-competitor-ibm-is-dissolving-its-blockchain-division/). However, if VeChain successfully services some initial use cases, it is inevitable that more will follow and a new business model will be born.
 
 ## Additional Resources
 
