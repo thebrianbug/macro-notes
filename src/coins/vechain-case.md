@@ -32,6 +32,9 @@ date: 2021-04-24
 
 ## Price Potential
 
+1. As a smart-contract platform, this puts VeChain in a similar estimation of value to ETH, ADA, DOT, etc. However, as VeChain's special focus for its features is on enterprises rather than any smart-contract use this changes it's maximum potential audience. At this point it is difficult to estimate how big the enterprise blockchain market might be. But, by being entirely focused on it VeChin is more likely to be able to secure a strong position for that market, however big it might become.
+1. One useful sub-set of potential users would be its original focus on fighting fraud in the global supply chain. Of course, it is not feasible to produce reliable numbers for the impact fraud in global supply chains as so much is under-reported, undetected, or not available for public knowledge. However, the total supply chain market size is a large part of entire world GDP as it includes the import/exports, plus relevant taxes of every country in the world, plus supply chains internal to each country. If a low estimate of only 5% was lost to fraud it represents an enormous opportunity of wealth.
+
 ## Major Risks
 
 ## Additional Resources
