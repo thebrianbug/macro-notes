@@ -5,20 +5,21 @@ layout: coins
 
 <section class="mt-15">
   {% for coin in collections.coin %}
-  <article class="my-8">
-    <h2 class="font-bold text-3xl text-gray-200">
-      <a class="pr-1" href="{{ coin.url | url }}">{{ coin.data.name }}</a>
+  <article
+    class="my-8 w-full max-w-2xl grid grid-cols-1 lg:grid-cols-2 gap-4 my-8 px-4 lg:mx-0"
+  >
+    <a
+      href="{{coin.url}}"
+      class="p-5 border rounded border-gray-200 decoration-none hover:border-pink-400"
+    >
+      <div class="font-bold text-3xl text-grey-200">
+        {{ coin.data.name }}
 
-      <span class="tag">{{ coin.data.ticker }}</span>
-    </h2>
+        <span class="tag">{{ coin.data.ticker }}</span>
+      </div>
 
-    <span class="text-lg">The case for {{ coin.data.name }}</span>
-
-    <p>
-      <a href="{{ coin.url | url }}" class="text-indigo-500 font-bold text-lg">
-        Show me →
-      </a>
-    </p>
+      <div class="text-lg text-grey-200">The case for {{ coin.data.name }}</div>
+    </a>
   </article>
   {% endfor %}
 </section>
