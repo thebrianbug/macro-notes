@@ -1,4 +1,4 @@
-# Macro Decade
+# Technically Employed
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/510602ff-9c2a-4e9a-a142-2f7ff4d72ccb/deploy-status)](https://app.netlify.com/sites/macro-notes/deploys)
 
