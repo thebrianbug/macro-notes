@@ -5,7 +5,7 @@
     "debug": "set DEBUG=* & eleventy",
     "css": "postcss src/static/css/tailwind.pcss --o _tmp/static/css/style.css --watch",
     "build": "cross-env NODE_ENV=production eleventy && cross-env NODE_ENV=production postcss src/static/css/tailwind.pcss --o _site/static/css/style.css",
-    "format": "prettier --write *"
+    "format": "prettier --write **/*.{md,html,js,json}"
   },
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
