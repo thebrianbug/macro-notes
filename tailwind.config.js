@@ -35,7 +35,7 @@ module.exports = {
               backgroundColor: theme("colors.gray.300"),
             },
             a: {
-              color: theme("colors.purple.400"),
+              color: theme("colors.pink.400"),
             },
           },
         },
